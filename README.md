@@ -1,6 +1,6 @@
 # PRODIGY_ML_01
 ## Task 1
-Developed a Linear Regression model to predict house prices based on features such as square footage, number of bedrooms, and number of bathrooms.
+Implement a Linear Regression model to predict house prices based on features such as square footage, number of bedrooms, and number of bathrooms.
 
 ## Dataset
 - Source: House Prices - Advanced Regression Techniques (Kaggle)
